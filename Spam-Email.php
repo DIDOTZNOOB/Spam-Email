@@ -34,10 +34,10 @@ $banner = "
 sleep(2);
 echo $banner;
 sleep(1);
-echo "Masukkann email target : ";
+echo "Masukkann Email Target : ";
 $target = trim(fgets(STDIN));
 sleep(1);
-echo "Masukkan jumlah : ";
+echo "Masukkan Jumlah Spam : ";
 $jumlah =  trim(fgets(STDIN));
 sleep(1);
 echo "\n\nRESULT :\n";
